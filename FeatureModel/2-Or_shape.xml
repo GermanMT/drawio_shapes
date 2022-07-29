@@ -1,0 +1,22 @@
+<shape h="100" w="100" aspect="variable" strokewidth="inherit">
+  <connections>
+    <constraint x="1" y="0.55" perimeter="0" />
+    <constraint x="0" y="0.55" perimeter="0" />
+  </connections>
+  <foreground>
+    <fillcolor color="#000000" />
+    <path>
+      <move x="100" y="55" />
+      <line x="50" y="15" />
+      <line x="0" y="55" />
+      <close />
+    </path>
+    <fillstroke />
+    <path>
+      <move x="0" y="55" />
+      <curve x1="0" x2="50" x3="100" y1="55" y2="90" y3="55" />
+    </path>
+    <fillstroke />
+    <fillcolor color="#000000" />
+  </foreground>
+</shape>
