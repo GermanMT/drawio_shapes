@@ -3,4 +3,4 @@ This repostory contains the xml libraries designed for variability models or ano
 
 ## Import Shapes
 
-In draw.io website you can import the xml libraries downloaded from this repository as following: File -> Import from ... -> Device ..., and selecting the xml file.
+In draw.io website you can import the xml libraries downloaded from this repository as following: File -> Import from ... -> Device ..., and selecting the FeatureModel.xml file.
